@@ -3,6 +3,15 @@
         font-family: serif;
     }
 
+    #about, #resume, #contact {
+        margin: 0px 0px 0px 0px;
+        text-align: left;
+    }
+
+    #contact {
+        display: none;
+    }
+
     #sidebar {
         display: none;
     }
@@ -10,10 +19,6 @@
     #content {
         width: 100%;
         flex: 1;
-    }
-
-    #contact {
-        display: none
     }
 
     img {
