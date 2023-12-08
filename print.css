@@ -3,7 +3,7 @@
         font-family: serif;
     }
 
-    #sidebar, #home, #lab11, #about, #facts, #skills, #contact, #print {
+    #sidebar, #home, #about, #facts, #skills, #contact, #print {
         display: none;
     }
 
