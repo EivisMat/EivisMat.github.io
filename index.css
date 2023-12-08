@@ -99,7 +99,7 @@
         grid-template-areas: 'about-image about-text' 'facts facts' 'skills skills'
     }
 
-    #about, #resume, #contact {
+    #about, #resume, #contact, #lab11 {
         margin: 20px 150px 0px 20px;
         display: block;
         text-wrap: wrap;
@@ -170,9 +170,7 @@
 
     .stats-text { 
         grid-area: stats-text;
-        /* font-size: 40px; */
         font-family: 'Open Sans' sans-serif;
-        /* font-weight: 700; */
     }
     
     .stats-text h1 {
