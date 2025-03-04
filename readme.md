@@ -1,6 +1,6 @@
 # Projektas NAS parduotuvė
 
-Nuoroda į projektą: [Projektas “NAS Parduotuvė“](https://eivismat.github.io/
+Nuoroda į projektą: [Projektas “NAS Parduotuvė“](https://eivismat.github.io/)
 
 ## Projekto funkcijos
 -	Github pages
